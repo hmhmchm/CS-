@@ -18,7 +18,7 @@ public class userInsertA : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            AddUser(InputUsername, InputEmail, InputPassword);
+            AddUser(InputUsername, InputEmail, InputPassword); //test
         }
     }
 
