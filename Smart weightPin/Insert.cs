@@ -29,6 +29,6 @@ public class userInsertA : MonoBehaviour
         form.AddField("addEmail", email);
         form.AddField("addPassword", password);
 
-        WWW www = new WWW(URL, form);//
+        WWW www = new WWW(URL, form);//test
     }
 }
